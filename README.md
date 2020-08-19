@@ -2,3 +2,4 @@
 ## 1.Information
 
 - feature-A
+- fix-B
